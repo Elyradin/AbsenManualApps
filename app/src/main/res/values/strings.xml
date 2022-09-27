@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AbsenManualApps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="Keterangan">
+        <item>Hadir tepat waktu</item>
+        <item>Terlambat</item>
+        <item>Izin</item>
+        <item>Sakit</item>
+    </string-array>
+</resources>
